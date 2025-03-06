@@ -1,11 +1,10 @@
 body
 {
-    background-color:aquamarine
-    text-align center;
+    background-color:aquamarine;
+    text-align: center;
 }
-.Jellyfishpic
-{
-    width : 240px;
-    height: 240px;
+.Jellyfishpic {
+    width : 488px;
+    height: 274.5px;
     border-radius: 10%;
 }
